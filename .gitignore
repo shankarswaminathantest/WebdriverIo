@@ -1,0 +1,16 @@
+*.png
+reports
+docker-log.txt
+.tmp
+debug.log
+Reports
+notes.txt
+EdgeDriver.txt
+test.js
+node_modules/
+local.log
+.vscode
+mynewfile1.csv
+proxyon.sh
+tunnel.log
+docker-compose-local.yaml
